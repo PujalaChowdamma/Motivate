@@ -1,5 +1,5 @@
-# Motivate
-<!DOCTYPE html>
+
+
 <html>
     <head>
         <meta charset="UTF-8"/>
@@ -84,7 +84,7 @@ body {
               WORRY <i>less</i><br>
               READ <i>more</i><br>
               BE <i>happy</i><br>
-              VOLUNTEER <i>freely</i><br>
+              
               RELAX <i>often</i><br>
               LOVE <i>always</i><br>
               LIVE <i>forever</i><br>
